@@ -54,9 +54,8 @@ This project demonstrates a complete BI workflow:
 ``` 
 hospital-analysis-project/  
 │  
-├── data/                                  # Raw and cleaned datasets  
+├── data/                                  # Raw and datasets for this project
 │   ├── hospital_data.xlsx                 # Original dataset (Excel)  
-│   ├── hospital_cleaned.csv               # Cleaned dataset (CSV)  
 │  
 ├── sql/                                   # MySQL scripts  
 │   ├── hospital_schema.sql                # Database schema (CREATE TABLE)  
