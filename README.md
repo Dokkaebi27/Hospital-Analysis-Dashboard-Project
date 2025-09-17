@@ -9,7 +9,7 @@ This repository contains the results of analysis of hospital data presented in a
 ## 🔍 Project Overview
 
 This project demonstrates a complete BI workflow:
-1. **Data Source (Excel)** → Raw hospital dataset stored in Excel/CSV format.
+1. **Data Source (Excel)** → Raw hospital dataset stored in Excel format.
 2. **Database (MySQL)** → Data imported, cleaned, and structured into relational tables.
 3. **SQL Queries** → Aggregation and KPI calculations using SQL.
 4. **Dashboard (Power BI)** → Interactive reports and visual insights.
@@ -97,6 +97,22 @@ hospital-analysis-project/
 ✔ Doctors: Highest commission rate 27% achieved by Dr. Ahmad Saputra.
 
 ✔ Medicines: Top-selling items include Ranitidine, Diazepam, and Salbutamol.
+
+---
+## 📊 Power BI File Access
+
+The Power BI dashboard file (`Hospital_Analysis.pbix`) is stored using **Git LFS (Large File Storage)**.  
+For convenience, a direct **Google Drive link** is also provided.
+
+🔹 Option 1 – Download via Git LFS
+1. Install Git LFS → [Download here](https://git-lfs.github.com)  
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/Dokkaebi27/Hospital-Analysis-Dashboard.git
+3. Git LFS will automatically fetch the .pbix file into the PowerBI/ folder.
+⚠️ If you don’t have Git LFS installed, you will only see a small pointer file instead of the actual dashboard.
+
+🔹 Option 2 – Download via Google Drive link
 
 ---
 ## 🙍 About Me
