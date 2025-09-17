@@ -108,7 +108,7 @@ The Power BI dashboard file (`Hospital_Analysis.pbix`) is stored using **Git LFS
 2. Clone this repository:
    ```bash
    git clone https://github.com/Dokkaebi27/Hospital-Analysis-Dashboard.git
-3. Git LFS will automatically fetch the .pbix file into the PowerBI/ folder.
+3. Git LFS will automatically fetch the .pbix file into the PowerBI/ folder. <br>
 ⚠️ If you don’t have Git LFS installed, you will only see a small pointer file instead of the actual dashboard.
 
 🔹 Option 2 – Download via Google Drive link
