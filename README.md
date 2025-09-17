@@ -101,8 +101,7 @@ hospital-analysis-project/
 ---
 ## 📊 Power BI File Access
 
-The Power BI dashboard file (`Hospital_Analysis.pbix`) is stored using **Git LFS (Large File Storage)**.  
-For convenience, a direct **Google Drive link** is also provided.
+The Power BI dashboard file (`Hospital_Analysis.pbix`) is stored using **Git LFS (Large File Storage)**.  For convenience, a direct **Google Drive link** is also provided.
 
 🔹 Option 1 – Download via Git LFS
 1. Install Git LFS → [Download here](https://git-lfs.github.com)  
