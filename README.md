@@ -89,11 +89,11 @@ hospital-analysis-project/
 ---
 ## 📌 Key Insights
 
-✔ Patients: Average discharge rate 73.3%.
+✔ Patients: The largest bill was for patient Joko Nugroho with a cost of around Rp. 122 Juta.
 
 ✔ Finance: Total paid amount Rp 719 Juta, with major revenue from surgery charges.
 
-✔ Doctors: Highest commission rate 27% achieved by Dr. Ahmad Saputra.
+✔ Doctors: Highest commission rate 10% achieved by Dr. Rama Wijaya.
 
 ✔ Medicines: Top-selling items include Ranitidine, Diazepam, and Salbutamol.
 
@@ -107,8 +107,7 @@ The Power BI dashboard file (`Hospital_Analysis.pbix`) is stored using **Git LFS
 2. Clone this repository:
    ```bash
    git clone https://github.com/Dokkaebi27/Hospital-Analysis-Dashboard.git
-3. Git LFS will automatically fetch the .pbix file into the PowerBI/ folder. <br>
-⚠️ If you don’t have Git LFS installed, you will only see a small pointer file instead of the actual dashboard.
+3. Git LFS will automatically fetch the .pbix file into the PowerBI/ folder. 
 
 🔹 Option 2 – Download via Google Drive link
 
