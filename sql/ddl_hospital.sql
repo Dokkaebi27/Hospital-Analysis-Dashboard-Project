@@ -1,4 +1,34 @@
 /*
+===========================================================
+Create Database: hospital_database
+===========================================================
+
+Script Purpose:
+This script creates a new database named 'hospital_database' 
+after checking if it already exists. If the database exists, 
+it will be dropped and recreated. Additionally, the script 
+will serve as the foundation to hold hospital management data 
+such as patients, doctors, staff, appointments, suppliers, 
+and surgeries.
+
+WARNING:
+Running this script will DROP the entire 'hospital_database' 
+if it exists. All data in the database will be permanently 
+deleted. Proceed with caution and ensure you have proper 
+backups before running this script.
+*/
+
+-- Drop and recreate the 'hospital_database'
+DROP DATABASE IF EXISTS hospital_database;
+
+CREATE DATABASE hospital_database
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_general_ci;
+
+-- Switch context to the new database
+USE hospital_database;
+
+/*
 ============================================================
 DDL Script: Create Hospital Database Tables
 ============================================================
