@@ -54,12 +54,11 @@ This project demonstrates a complete BI workflow:
 ``` 
 hospital-analysis-project/  
 │  
-├── data/                                  # Raw and datasets for this project
-│   ├── hospital_data.xlsx                 # Original dataset (Excel)  
+├── datasets/                              # Raw and datasets for this project               
 │  
 ├── sql/                                   # MySQL scripts  
-│   ├── hospital_schema.sql                # Database schema (CREATE TABLE)  
-│   └── hospital_queries.sql               # SQL queries for analysis (KPI, aggregation)  
+│   ├── hospital_ddl.sql                   # Database schema (CREATE TABLE)  
+│   └── hospital_views.sql                 # SQL queries for analysis (KPI, aggregation)  
 │  
 ├── powerbi/                               # Power BI dashboard file  
 │   └── Hospital_Analysis.pbix             # Interactive dashboard (Power BI)  
