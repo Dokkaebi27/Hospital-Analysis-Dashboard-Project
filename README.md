@@ -116,15 +116,21 @@ The Power BI dashboard file (`Hospital_Analysis.pbix`) is stored using **Git LFS
 👉 [Download Hospital_Analysis.pbix from Google Drive](https://drive.google.com/file/d/1uED4r9KjuLMJGw45AIEFYMSycc206wUP/view?usp=drive_link)
 
 ---
-## 🙍 About Me
+## 🙍 About Me  
 
-Hi there! I'm **Ahmad Zaki Amani**
+Hi, I'm **Ahmad Zaki Amani** 👋  
 
-✨ This project is part of my Data Analyst / Business Intelligence portfolio to showcase skills in data visualization, dashboard creation, and healthcare analytics.
+✨ I'm passionate about **Data Analytics** and **Business Intelligence**, focusing on building dashboards, creating data visualizations, and turning raw data into actionable insights.  
 
-Let's stay in touch! Feel free to connect with me on the following platform:
+💡 This project is part of my portfolio, where I showcase skills in:  
+- Data visualization & storytelling  
+- Dashboard design (Power BI, Tableau)  
+- Data transformation & analysis  
+- Business Intelligence solutions  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadzaki27.az@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/)
+📫 Let’s connect and collaborate!  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadzaki27.az@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/)  
 
 
