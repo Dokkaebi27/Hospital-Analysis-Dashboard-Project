@@ -1,11 +1,12 @@
 # 🏥 Hospital Analysis Dashboard 
 
-Welcome to the **Hospital Analysis Project** repository 🚀 <br>
+Welcome to the **Hospital Analysis Project** repository 🚀 
+
 This repository showcases a hospital data analysis project using MySQL for database management and Power BI for interactive visualization. The dashboard provides insights into patient profiles, doctor, information about hospital, and finance.
 
-📌 **Project Type**: End-to-End Data Analytics & Business Intelligence. 
+**Project Type**: End-to-End Data Analytics & Business Intelligence. 
 
-📌 **Tool Used**: Microsoft Power BI, MySQL and Excel.
+**Tool Used**: Microsoft Power BI, MySQL and Excel.
 
 ---
 ## 🔍 Project Overview
