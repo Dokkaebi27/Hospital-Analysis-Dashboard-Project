@@ -127,10 +127,10 @@ hospital-analysis-project/
 │   └── hospital_views.sql                 # SQL queries for analysis (KPI, aggregation)  
 │  
 ├── powerbi/                               # Power BI dashboard file  
-│   └── Hospital_Analysis.pbix             # Interactive dashboard (Power BI)  
+│   └── Hospital_Analysis.pbix              
 │  
 ├── docs/                                  # Documentation & reports  
-│   └── Hospital_Analysis.pdf              # Dashboard documentation (PDF export)  
+│   └── Hospital_Analysis.pdf               
 │  
 └── README.md                              # Project description and portfolio details
 ``` 
