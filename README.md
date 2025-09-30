@@ -1,5 +1,10 @@
 # 🏥 Hospital Analysis Dashboard 
 
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#versi-bahasa-indonesia)
+
+---
+## English Version
+
 Welcome to the **Hospital Analysis Project** repository 🚀 
 
 This repository showcases a hospital data analysis project using MySQL for database management and Power BI for interactive visualization. The dashboard provides insights into patient profiles, doctor, information about hospital, and finance.
@@ -127,11 +132,15 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 - Data visualization & storytelling  
 - Dashboard design (Power BI, Tableau)  
 - Data transformation & analysis  
-- Business Intelligence solutions  
+- Business Intelligence solutions
 
 📫 Let’s connect and collaborate!  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadzaki27.az@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/)  
+
+---
+
+## Versi Bahasa Indonesia
 
 
