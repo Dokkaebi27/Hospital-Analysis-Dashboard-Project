@@ -1,4 +1,4 @@
-# 🏥 Hospital Analysis Dashboard 
+# 🏥 Hospital Analytics Dashboard 
 
 🌐 Languages: [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
