@@ -1,9 +1,9 @@
 # 🏥 Hospital Analysis Dashboard 
 
-🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#versi-bahasa-indonesia)
+🌐 Languages: [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
 ---
-## English Version
+## English 
 
 Welcome to the **Hospital Analysis Project** repository 🚀 
 
@@ -188,7 +188,7 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 
 ---
 
-## Versi Bahasa Indonesia
+## Bahasa Indonesia
 
 Selamat datang di repositori **Hospital Analysis Project** 🚀
 
