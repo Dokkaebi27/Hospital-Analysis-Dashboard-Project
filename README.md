@@ -1,9 +1,8 @@
-# 🏥 Hospital Analytics Dashboard 
-
-🌐 Languages: [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
-
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#bahasa-indonesia)
 ---
-## English 
+
+<a name="english-version"></a>
+# 🏥 Hospital Analytics Dashboard 
 
 Welcome to the **Hospital Analysis Project** repository 🚀 
 
@@ -187,10 +186,13 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/)  
 
 ---
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
-## Bahasa Indonesia
+---
+<a name="indonesian-version"></a>
+# 🏥 Dasbor Analisis Rumah Sakit 
 
-Selamat datang di repositori **Hospital Analysis Project** 🚀
+Selamat datang di repositori **Proyek Analisis Rumah Sakit** 🚀
 
 Repositori ini menampilkan proyek analisis data rumah sakit menggunakan MySQL untuk manajemen database dan Power BI untuk visualisasi interaktif. Dashboard memberikan wawasan tentang profil pasien, dokter, informasi rumah sakit, dan keuangan.
 
