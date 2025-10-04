@@ -1,4 +1,4 @@
-🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#bahasa-indonesia)
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 ---
 
 <a name="english-version"></a>
