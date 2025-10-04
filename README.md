@@ -1,6 +1,6 @@
-
 🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
+---
 <a name="english-version"></a>
 # 🏥 Hospital Analytics Dashboard 
 
@@ -188,6 +188,7 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 ---
 🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
+---
 <a name="indonesian-version"></a>
 # 🏥 Dasbor Analisis Rumah Sakit 
 
